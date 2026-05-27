@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-- 🧑 I’m Nomena H., a student at SAYNA, a 100% online school for learning digital professions. 
-- 🌱 I’m currently learning web development to become a professional in this field.
-- 📚 I’m also expanding my skills through FreeCodeCamp, diving deeper into web development and enhancing my knowledge in full-stack technologies.
-- 🎯 My goal: to help Malagasy students better learn their lessons through web development.
+- 🧑 I’m Nomena H., an aspiring web developer from Madagascar.
+
+- 🌱 I’m currently learning web development through personal projects, practice, and online resources.
+
+- 📚 I continue improving my skills with platforms like FreeCodeCamp while building small frontend projects using HTML, CSS, and JavaScript.
+
+- 🎯 My goal is to become a professional web developer and create useful digital solutions that can help Malagasy students learn more effectively.
+
+🚀 Currently focused on:
+- JavaScript
+- DOM manipulation
+- Frontend mini-projects
+- Preparing for React
